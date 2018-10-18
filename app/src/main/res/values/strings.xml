@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pierwsza Aplikacja</string>
+    <string name="b_save">Zapisz</string>
+    <string name="b_clear">Wyczyść</string>
+    <string name="tv_text">Pobrany tekst</string>
+    <string name="message">Dodano nowe dane</string>
+    <string name="clear_message">Wyczyszczono pola</string>
+    <string name="color_yellow">Żółty</string>
+    <string name="color_red">Czerwony</string>
+    <string name="color_green">Zielony</string>
+    <string name="color_blue">Niebieski</string>
+</resources>
